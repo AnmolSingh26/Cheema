@@ -1,0 +1,7 @@
+body {background-color:white;}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: white-space;
+    color: black;
+
+}
